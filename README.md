@@ -65,6 +65,6 @@ Se permite al usuario seleccionar y editar los campos de las tablas de reservas 
 
 <img src="https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/4820ef05-c6d2-488c-b51e-4c066140d166"/>
 
-<h2>Edición y eliminación</h2>
+<h2>Autor</h2>
 Sergio Leon
 
